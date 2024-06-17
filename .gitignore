@@ -1,0 +1,7 @@
+__pycache__/
+.ruff_cache/
+data/
+reckitt-env/
+reporting/
+
+EDA.ipynb

@@ -1,0 +1,14 @@
+numpy
+scipy
+statsmodels
+pmdarima
+darts
+pandas
+missingno
+scikit-learn
+matplotlib
+seaborn
+ipykernel
+jupyter
+colorlog
+ruff
